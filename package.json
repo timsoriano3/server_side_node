@@ -8,5 +8,9 @@
     "start": "node index"
   },
   "author": "Peter Soriano",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "jsonwebtoken": "^8.3.0",
+    "passport-jwt": "^4.0.0"
+  }
 }
